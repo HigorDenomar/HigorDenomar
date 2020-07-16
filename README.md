@@ -1,16 +1,13 @@
-### Hi there 👋
+# Higor Denomar ⚛
 
-<!--
-**HigorDenomar/HigorDenomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 my name is Higor and this is my profile
 
-Here are some ideas to get you started:
+I'm in love with React Native ❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📌 Skills: Javascript, React Native, ReactJS, HTML, CSS.
+- 💡 I’m currently learning Node.js
+- 📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higordenomar)](https://www.linkedin.com/in/higordenomar)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-d02873?style=flat-square&labelColor=d02873&logo=instagram&logoColor=white&link=https://www.instagram.com/higordenomar)](https://www.instagram.com/higordenomar)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/higordenomar)](https://twitter.com/higordenomar)
