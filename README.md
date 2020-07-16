@@ -1,8 +1,7 @@
-# Higor Denomar ⚛
+# Hi there 👋
+### My name is Higor and this is my profile 😁
 
-### Hi there 👋 my name is Higor and this is my profile
-
-I'm in love with React Native ❤
+I'm in love with React Native and ReactJS ❤
 
 - 📌 Skills: Javascript, React Native, ReactJS, HTML, CSS.
 - 💡 I’m currently learning Node.js
