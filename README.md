@@ -1,10 +1,10 @@
 # Hi there 👋
 ### My name is Higor and this is my profile 😁
 
-I'm in love with React Native and ReactJS ❤
+I'm in love with ReactJS ❤
 
-- 📌 Skills: Javascript, React Native, ReactJS, HTML, CSS.
-- 💡 I’m currently learning Node.js
+- 📌 Skills: Javascript, ReactJS, React Native, HTML, CSS.
+- 💡 I’m currently learning Next.js
 - 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higordenomar)](https://www.linkedin.com/in/higordenomar)
