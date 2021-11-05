@@ -1,6 +1,12 @@
 # Hi there 👋
 ### My name is Higor and this is my profile 😁
 
+[![Higor Denomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=higordenomar&theme=dracula&title_color=539BF5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higordenomar&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 I'm in love with ReactJS ❤
 
 - 📌 Skills: ReactJS, React Native, Vue.js, NuxtJS, Javascript, HTML, SASS, CSS
