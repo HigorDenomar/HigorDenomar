@@ -5,7 +5,7 @@
 
 ## 🛠 &nbsp;Skills
 
-![React](https://img.shields.io/badge/-React-282A36?style=flat&logo=react)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-282A36?style=flat&logo=react)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-282A36?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-282A36?style=flat&logo=node.js)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-282A36?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -19,8 +19,8 @@
 ## 💹 Analytics
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordenomar&layout=compact&theme=dracula&title_color=539BF5" alt="higordenomar's most languages"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=higordenomar&show_icons=true&theme=dracula&title_color=539BF5" alt="higordenomar's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higordenomar&show_icons=true&theme=dracula&title_color=539BF5" alt="higordenomar's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordenomar&layout=compact&theme=dracula&title_color=539BF5" alt="higordenomar's most languages"/>
 </p>
 
 <br />
