@@ -19,8 +19,8 @@
 ## 💹 Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordenomar&layout=compact&theme=dracula&title_color=539BF5" alt="higordenomar's most languages"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=higordenomar&show_icons=true&theme=dracula&title_color=539BF5" alt="higordenomar's stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordenomar&layout=compact&theme=dracula&title_color=539BF5" alt="higordenomar's most languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=higordenomar&show_icons=true&theme=dracula&title_color=539BF5" alt="higordenomar's stats"/>
 </p>
 
 <br />
